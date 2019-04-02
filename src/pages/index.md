@@ -1,21 +1,16 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: One more cup of coffe for the road
+image: /img/screenshot-2019-04-02-at-21.49.07.png
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  description: |
+    One more cup of coffee for the road
+    One more cup of coffee 'fore I go
+    To the valley below
+description: Sometimes its to late for coffee
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -60,7 +55,7 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/screenshot-2019-04-02-at-21.54.27.png
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
@@ -68,3 +63,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
